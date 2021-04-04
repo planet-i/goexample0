@@ -1,0 +1,1 @@
+# goexample0
